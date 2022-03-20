@@ -14,12 +14,13 @@ const Home = () => {
         {/* HeroPage */}
         <HeroPage />
 
+        <LaptopVideo />
+
         {/* Services */}
         <Services />
 
         {/* Our People, Our Culture */}
         <OurPeople />
-        <LaptopVideo />
         <Email />
       </section>
     </>

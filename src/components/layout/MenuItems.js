@@ -1,31 +1,31 @@
 export const MenuItems = [
     {
-      title: 'UI - UX Team',
+      title: 'Board of Directors',
       path: '/ui-ux',
       cName: 'dropdown-link'
     },
     {
-      title: 'Design Team',
+      title: 'Senior Leadership',
       path: '/design',
       cName: 'dropdown-link'
     },
     {
-      title: 'Front End Team',
+      title: 'Junior Leadership',
       path: '/front-end',
       cName: 'dropdown-link'
     },
     {
-      title: 'Back End Team',
+      title: 'Key Partnership',
       path: '/back-end',
       cName: 'dropdown-link'
     },
     {
-      title: 'CI - CD Team',
+      title: 'Governmentals',
       path: '/ci-cd',
       cName: 'dropdown-link'
     },
     {
-      title: 'Testing Team',
+      title: 'Key Contractors',
       path: '/testing',
       cName: 'dropdown-link'
     }

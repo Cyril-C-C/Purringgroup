@@ -12,18 +12,21 @@ const LaptopVideo = () => {
             </span>
           </h1>
           <p>
-            What about offshoring and nearshoring? Why pay US rates when you can
-            get the same work done offshore for a quarter of the cost?
+            We are fast growing conglomerate with diversified investments
+            spanning across key business sectors of various economies.
             <br />
             <br />
-            If you have a project or if you are budget sensitive, Purring
-            developers could be a good option.
+            Purring has its subsidiaries:
+            <ul style={{ paddingLeft: '3rem' }}>
+              <br />
+              <li style={{ listStyleType: 'disc' }}>Purring Technology</li>
+              <li style={{ listStyleType: 'disc' }}>Purring Merchandise</li>
+              <li style={{ listStyleType: 'disc' }}>Purring Capital</li>
+            </ul>
             <br />
             <br />
             And if you are in search of the right company, where you can achieve
-            excellent results for a fraction of what you would pay a Big
-            Business or Enterprise Class software development and consultancy
-            company, Purring is the right place for you.
+            excellent results, Purring is the right place for you.
             <br />
             <br />
             To your exciting realities...
@@ -36,7 +39,7 @@ const LaptopVideo = () => {
             <span style={{ color: '#f44336' }}>End - Goal</span> ~ Freedom.
           </p>
           <a
-            href='https://www.linkedin.com/company/purring/'
+            href='https://www.linkedin.com/company/purringllc/'
             target='_blank'
             rel='noreferrer'
             className='hero-btn red-btn-main'
