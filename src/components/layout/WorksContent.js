@@ -11,25 +11,24 @@ const WorksContent = () => {
           </h1>
           <p>
             Every project is born from a special set of challenges. We are proud
-            of each and every digital product we create, whether for a
-            publisher, nonprofit, museum, or brand. Organizations partner with
-            us to unlock solutions catered for their needs today and flexible
-            for what they will want tomorrow.
+            of each and every product and service we create and render, whether
+            for a publisher, nonprofit, museum, or brand. Organizations partner
+            with us to unlock solutions catered for their needs today and
+            flexible for what they will want tomorrow.
             <br />
             <br />
-            Purring has experts in: Angular, Data Engineering, DevOps, Golang,
-            iOS, Java, Python, php, QA, React Native, React.js, Vue.js, Ruby,
-            Salesforce, Climate Intelligence.
+            Purring has experts in: Technology, Branded Merchandise, Investment,
+            Finance and Climate Intelligence.
             <br />
             <br />
-            <span style={{ color: '#f44336' }}>Founded</span> ~ 2021.
+            <span style={{ color: '#f44336' }}>Founded</span> ~ 2017.
             <br />
             <br />
-            <span style={{ color: '#f44336' }}>Specialties</span> ~ General
-            Contracts and Technology Services.
+            <span style={{ color: '#f44336' }}>Specialties</span> ~ Technology,
+            Trade, Investment and General Contracts.
           </p>
           <a
-            href='https://www.linkedin.com/company/purring'
+            href='https://www.linkedin.com/company/purringllc'
             target='_blank'
             rel='noreferrer'
             className='hero-btn red-btn-main'

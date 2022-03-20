@@ -54,6 +54,13 @@ const Footer2 = () => {
           >
             <i className='fa fa-twitter' id='fa fa-twitter' />
           </a>
+          <a
+            href='https://www.instagram.com/purring_merchandise'
+            target='_blank'
+            rel='noreferrer'
+          >
+            <i className='fa fa-instagram' id='fa fa-instagram' />
+          </a>
         </section>
       </section>
       <hr />

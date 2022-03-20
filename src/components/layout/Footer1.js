@@ -15,7 +15,7 @@ const Footer1 = () => {
           <h1>Join Us</h1>
           <p>We are hiring</p>
           <a href='/Careers' className='hero-btn-list' id='hero-btn-list'>
-            Apply <i class='fa fa-arrow-right' aria-hidden='true' />
+            APPLY <i class='fa fa-arrow-right' aria-hidden='true' />
           </a>
         </section>
       </section>

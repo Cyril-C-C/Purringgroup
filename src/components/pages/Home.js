@@ -16,7 +16,7 @@ const Home = () => {
 
         <LaptopVideo />
 
-        {/* Services */}
+        {/* Subsidiary */}
         <Services />
 
         {/* Our People, Our Culture */}

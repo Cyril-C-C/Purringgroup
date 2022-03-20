@@ -10,23 +10,28 @@ const AboutContent = () => {
             <span style={{ color: '#f44336' }}>Realities...</span>
           </h1>
           <p>
-            Purring is a technology solution service provider in global market.
-            With best practices, we provide bespoke technology services across
-            related ecosystems.
+            We are fast growing conglomerate with diversified investments
+            spanning across key business sectors of various economies.
             <br />
             <br />
-            Website Development, Mobile App Development, Artificial Intelligence
-            (AI) solutions, Continuous Integration (CI) and Continuous Delivery
-            (CD) solutions, Intelligent Chatbots, Payment Solutions, User
-            Interface (UI) and User Experience (UX) solutions are core services
-            we offer to clients across businesses and NGOs world - wide.
+            Purring has its subsidiaries:
+            <ul style={{ paddingLeft: '3rem' }}>
+              <br />
+              <li style={{ listStyleType: 'disc' }}>Purring Technology</li>
+              <li style={{ listStyleType: 'disc' }}>Purring Merchandise</li>
+              <li style={{ listStyleType: 'disc' }}>Purring Capital</li>
+            </ul>
             <br />
             <br />
-            <span style={{ color: '#f44336' }}>Founded</span> ~ 2021.
+            And if you are in search of the right company, where you can achieve
+            excellent results, Purring is the right place for you.
             <br />
             <br />
-            <span style={{ color: '#f44336' }}>Specialties</span> ~ General
-            Contracts and Technology Services.
+            <span style={{ color: '#f44336' }}>Founded</span> ~ 2017.
+            <br />
+            <br />
+            <span style={{ color: '#f44336' }}>Specialties</span> ~ Technology,
+            Trade, Investment and General Contracts.
           </p>
           <a
             href='https://twitter.com/_Purring_?t=3tbsLvQKm_qYSVL9DBlcbg&s=08'
