@@ -18,7 +18,7 @@ const Services = () => {
           across related ecosystems.
           <br />
           <br />
-          Website Development, Mobile App Development, Artificial Intelligence
+          General Software Development: Website Development, Mobile App Development, Artificial Intelligence
           (AI) solutions, Continuous Integration (CI) and Continuous Delivery
           (CD) solutions, Intelligent Chatbots, Payment Solutions, User
           Interface (UI) and User Experience (UX) solutions are core services we
@@ -53,7 +53,7 @@ const Services = () => {
           <br />
           <br />
           Purring Merchandise is strongly committed to meeting all procurement
-          needs of its esteem customers.
+          needs of its esteem customers, either by sourcing or manufacturing.
         </p>
 
         <section className='about-col-main' id='about-coll-main'>
