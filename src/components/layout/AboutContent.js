@@ -34,7 +34,7 @@ const AboutContent = () => {
             <br />
             <br />
             <span style={{ color: '#f44336' }}>Specialties</span> ~ Technology;
-            Trade; Real Estate, Design and Facilities; Investment; and General
+            Real Estate, Design and Facilities; Trade; Investment; and General
             Contracts.
           </p>
           <a
