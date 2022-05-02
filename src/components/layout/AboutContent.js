@@ -47,11 +47,11 @@ const AboutContent = () => {
             EXPLORE MORE
           </a>
         </section>
-        <br />
         <section className='about-col-main' id='about-col-main'>
           <img src='About.jpg' alt='' />
         </section>
       </section>
+      <br />
     </section>
   );
 };
