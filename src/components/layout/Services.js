@@ -18,16 +18,52 @@ const Services = () => {
           across related ecosystems.
           <br />
           <br />
-          General Software Development: Website Development, Mobile App Development, Artificial Intelligence
-          (AI) solutions, Continuous Integration (CI) and Continuous Delivery
-          (CD) solutions, Intelligent Chatbots, Payment Solutions, User
-          Interface (UI) and User Experience (UX) solutions are core services we
-          offer to clients across businesses and NGOs world - wide.
+          General Software Development: Website Development, Mobile App
+          Development, Artificial Intelligence (AI) solutions, Continuous
+          Integration (CI) and Continuous Delivery (CD) solutions, Intelligent
+          Chatbots, Payment Solutions, User Interface (UI) and User Experience
+          (UX) solutions are core services we offer to clients across businesses
+          and NGOs world - wide.
         </p>
 
         <section className='about-col-main' id='about-coll-main'>
           <a
             href='http://purringco.netlify.app/'
+            target='_blank'
+            rel='noreferrer'
+            className='hero-btn red-btn-main'
+            id='hero-btn red-btn-main'
+          >
+            VISIT WEBSITE
+          </a>
+        </section>
+      </section>
+      <br />
+      <br />
+      <hr />
+
+      <section className='testiomonial'>
+        <h1 style={{ color: 'red', fontSize: '1.25rem' }}>
+          Purring Real Estate, Design and Facilities
+        </h1>
+        <p>
+          Purring Real Estate, Design and Facilities is a real estate
+          partnership company. With sound relationships, partnership and
+          executive presence, we have positioned ourselves to accelerating
+          developmental excellence in real estate, exterior and interior
+          designs, and facility and property management.
+          <br />
+          <br />
+          Our interest and undertakings span across various spaces from
+          residential, through commercial, to industrial assets.
+          <br />
+          <br />
+          We proffer sustainable development and support to exciting realities.
+        </p>
+
+        <section className='about-col-main' id='about-coll-main'>
+          <a
+            href='http://purringre.netlify.app/'
             target='_blank'
             rel='noreferrer'
             className='hero-btn red-btn-main'
