@@ -17,15 +17,17 @@ const WorksContent = () => {
             flexible for what they will want tomorrow.
             <br />
             <br />
-            Purring has experts in: Technology, Branded Merchandise, Investment,
-            Finance and Climate Intelligence.
+            Purring has experts in: Technology; Real Estate, Designs and
+            Facility and Property Management; Branded Merchandise; Investment; Finance; and Climate
+            Intelligence.
             <br />
             <br />
             <span style={{ color: '#f44336' }}>Founded</span> ~ 2017.
             <br />
             <br />
-            <span style={{ color: '#f44336' }}>Specialties</span> ~ Technology,
-            Trade, Investment and General Contracts.
+            <span style={{ color: '#f44336' }}>Specialties</span> ~ Technology;
+            Real Estate, Design and Facilities; Trade; Investment; and General
+            Contracts.
           </p>
           <a
             href='https://www.linkedin.com/company/purringllc'

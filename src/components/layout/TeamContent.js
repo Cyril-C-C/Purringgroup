@@ -10,10 +10,10 @@ const TeamContent = () => {
           </h1>
           <p>
             Our high performance culture yields fast, beautiful products that
-            stand up to the toughest demands of the Internet, Product Branding
-            and Investment. The biggest names in media, non-profits, technology,
-            etc. entrust their products to us year after year because our team
-            gets results.
+            stand up to the toughest demands of the Internet, Real Estate,
+            Product Branding and Investment. The biggest names in media,
+            non-profits, technology, etc. entrust their products to us year
+            after year because our team gets results.
             <br />
             <br />
             We're not rock stars, zombies, or magicians. We're authentic,
@@ -26,7 +26,7 @@ const TeamContent = () => {
             <br />
             <br />
             <span style={{ color: '#f44336' }}>Projects Delivered</span> ~
-            Multible.
+            Multiple.
           </p>
           <a
             href='https://www.linkedin.com/company/purringllc'

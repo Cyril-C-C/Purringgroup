@@ -18,6 +18,9 @@ const AboutContent = () => {
             <ul style={{ paddingLeft: '3rem' }}>
               <br />
               <li style={{ listStyleType: 'disc' }}>Purring Technology</li>
+              <li style={{ listStyleType: 'disc' }}>
+                Purring Real Estate, Design and Facilities
+              </li>
               <li style={{ listStyleType: 'disc' }}>Purring Merchandise</li>
               <li style={{ listStyleType: 'disc' }}>Purring Capital</li>
             </ul>
@@ -30,8 +33,9 @@ const AboutContent = () => {
             <span style={{ color: '#f44336' }}>Founded</span> ~ 2017.
             <br />
             <br />
-            <span style={{ color: '#f44336' }}>Specialties</span> ~ Technology,
-            Trade, Investment and General Contracts.
+            <span style={{ color: '#f44336' }}>Specialties</span> ~ Technology;
+            Trade; Real Estate, Design and Facilities; Investment; and General
+            Contracts.
           </p>
           <a
             href='https://twitter.com/_Purring_?t=3tbsLvQKm_qYSVL9DBlcbg&s=08'
@@ -43,6 +47,7 @@ const AboutContent = () => {
             EXPLORE MORE
           </a>
         </section>
+        <br />
         <section className='about-col-main' id='about-col-main'>
           <img src='About.jpg' alt='' />
         </section>
