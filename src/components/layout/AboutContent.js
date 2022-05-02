@@ -51,7 +51,6 @@ const AboutContent = () => {
           <img src='About.jpg' alt='' />
         </section>
       </section>
-      <br />
     </section>
   );
 };
