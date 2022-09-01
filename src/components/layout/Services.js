@@ -89,7 +89,7 @@ const Services = () => {
           <br />
           <br />
           Purring Merchandise is strongly committed to meeting all procurement
-          needs of its esteem customers, either by sourcing or manufacturing.
+          needs of its esteemed customers, either by sourcing or manufacturing.
         </p>
 
         <section className='about-col-main' id='about-coll-main'>
