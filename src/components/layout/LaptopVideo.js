@@ -27,8 +27,12 @@ const LaptopVideo = () => {
               <li style={{ listStyleType: 'disc' }}>Purring Capital</li>
             </ul>
             <br />
+            Building with 3Ps (Patience, Prowess and Possibilities - for -
+            Sustainability), while targeting verticals as well as horizontals.
+            Our headquarters is located in Lagos, Nigeria.
             <br />
-            And if you are in search of the right company, where you can achieve
+            <br />
+            If you are in search of the right company, where you can achieve
             excellent results, Purring is the right place for you.
             <br />
             <br />
@@ -39,7 +43,8 @@ const LaptopVideo = () => {
             Diversity-Inclusion-Belonging (DIB) and Equity.
             <br />
             <br />
-            <span style={{ color: '#f44336' }}>End - Goal</span> ~ Freedom.
+            <span style={{ color: '#f44336' }}>End - Goal</span> ~ Freedom to
+            all our Esteemed Customers first.
           </p>
           <a
             href='https://www.linkedin.com/company/purringllc/'
