@@ -56,7 +56,6 @@ const AboutContent = () => {
         </section>
       </section>
       <br />
-      <br />
     </section>
   );
 };
