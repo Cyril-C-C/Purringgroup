@@ -3,6 +3,8 @@ import React, { Fragment } from 'react';
 const Services = () => {
   return (
     <Fragment>
+      {/* Subsidiaries */}
+
       <section className='testiomonial'>
         <h1>Subsidiaries</h1>
         <h1 style={{ color: 'red', fontSize: '1.25rem' }}>
@@ -131,6 +133,40 @@ const Services = () => {
           </a>
         </section>
       </section>
+      <br />
+      <br />
+
+      {/* Affiliates */}
+
+      <section className='testiomonial'>
+        <h1>Affiliates (SPVs)</h1>
+        <h1 style={{ color: 'red', fontSize: '1.25rem' }}>
+          Purring Foundation
+        </h1>
+        <p>
+          Purring Foundation is a Special Purpose Entity (SPE) of Purring Group
+          which helps such Parent Company to facilitate its community reach -
+          outs through Purring Corporate Social Responsibility Initiative
+          (PCSRI).
+          <br />
+          <br />
+          Playing a positive role in our communities and consideration of
+          enivronmental and social impact of our business decisions geared up
+          such substantive initiative. Our approach is centered on
+          environmental, philanthropic, ethical and economic resposibility to
+          making ours best places beyond transacting with customers through good
+          sense of corporate citizenship towards making possible higher
+          standards of living and quality of life for our communities; and also,
+          towards creating those frontiers for 'Corporate Social Responsibility
+          and Employee Engagement' for company - specific benefits as well.
+          <br />
+          <br />
+          Within our reach, sound investment in social sectors: health,
+          education, housing, poverty eradication, etc. is the goal. This is
+          because we really care...
+        </p>
+      </section>
+      <br />
       <br />
     </Fragment>
   );
