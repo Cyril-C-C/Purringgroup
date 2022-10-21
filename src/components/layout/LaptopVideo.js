@@ -37,6 +37,7 @@ const LaptopVideo = () => {
             <br />
             <br />
             To your exciting realities...
+            <i class='fa fa-trademark' id='fa fa-trademark' />
             <br />
             <br />
             <span style={{ color: '#f44336' }}>Our Focus</span> ~
