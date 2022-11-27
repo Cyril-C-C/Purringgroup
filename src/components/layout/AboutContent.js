@@ -21,6 +21,7 @@ const AboutContent = () => {
               <li style={{ listStyleType: 'disc' }}>
                 Purring Real Estate, Design and Facilities
               </li>
+              <li style={{ listStyleType: 'disc' }}>Purring Energy</li>
               <li style={{ listStyleType: 'disc' }}>Purring Merchandise</li>
               <li style={{ listStyleType: 'disc' }}>Purring Capital</li>
             </ul>
@@ -38,8 +39,8 @@ const AboutContent = () => {
             <br />
             <br />
             <span style={{ color: '#f44336' }}>Specialties</span> ~ Technology;
-            Real Estate, Design and Facilities; Trade; Investment; and General
-            Contracts.
+            Real Estate, Design and Facilities; Energy; Trade; Investment; and
+            General Contracts.
           </p>
           <a
             href='https://twitter.com/_Purring_?t=3tbsLvQKm_qYSVL9DBlcbg&s=08'

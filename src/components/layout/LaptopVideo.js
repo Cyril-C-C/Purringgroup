@@ -23,6 +23,7 @@ const LaptopVideo = () => {
               <li style={{ listStyleType: 'disc' }}>
                 Purring Real Estate, Design and Facilities
               </li>
+              <li style={{ listStyleType: 'disc' }}>Purring Energy</li>
               <li style={{ listStyleType: 'disc' }}>Purring Merchandise</li>
               <li style={{ listStyleType: 'disc' }}>Purring Capital</li>
             </ul>

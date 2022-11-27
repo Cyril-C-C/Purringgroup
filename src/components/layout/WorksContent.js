@@ -18,16 +18,16 @@ const WorksContent = () => {
             <br />
             <br />
             Purring has experts in: Technology; Real Estate, Designs and
-            Facility and Property Management; Branded Merchandise; Investment; Finance; and Climate
-            Intelligence.
+            Facility and Property Management; Oil & Gas and Renewable Energy;
+            Branded Merchandise; Investment; Finance; and Climate Intelligence.
             <br />
             <br />
             <span style={{ color: '#f44336' }}>Founded</span> ~ 2017.
             <br />
             <br />
             <span style={{ color: '#f44336' }}>Specialties</span> ~ Technology;
-            Real Estate, Design and Facilities; Trade; Investment; and General
-            Contracts.
+            Real Estate, Design and Facilities; Energy; Trade; Investment; and
+            General Contracts.
           </p>
           <a
             href='https://www.linkedin.com/company/purringllc'

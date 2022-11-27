@@ -11,9 +11,9 @@ const TeamContent = () => {
           <p>
             Our high performance culture yields fast, beautiful products that
             stand up to the toughest demands of the Internet, Real Estate,
-            Product Branding and Investment. The biggest names in media,
-            non-profits, technology, etc. entrust their products to us year
-            after year because our team gets results.
+            Energy, Product Branding and Investment. The biggest names in media,
+            non-profits, technology, Oil & Gas, etc. entrust their pains and
+            products to us year after year because our team gets results.
             <br />
             <br />
             We're not rock stars, zombies, or magicians. We're authentic,

@@ -41,7 +41,7 @@ const Footer2 = () => {
             <i className='fa fa-github' id='fa fa-github' />
           </a>
           <a
-            href='https://www.linkedin.com/company/purring'
+            href='https://www.linkedin.com/company/purringllc'
             target='_blank'
             rel='noreferrer'
           >
@@ -66,7 +66,7 @@ const Footer2 = () => {
       <hr />
       <span>
         Copyright <i class='fa fa-copyright' id='fa fa-copyright' /> Purring
-        2022
+        2023
       </span>
       <a href='/PrivatePolicy'>
         <span>Privacy Policy</span>

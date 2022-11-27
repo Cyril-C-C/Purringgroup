@@ -80,6 +80,40 @@ const Services = () => {
       <hr />
 
       <section className='testiomonial'>
+        <h1 style={{ color: 'red', fontSize: '1.25rem' }}>Purring Energy</h1>
+        <p>
+          Purring Energy is an energy solution product and servicing company
+          committed to proffering incredible and sustainable values to its
+          clients and communities. Its esteemed clients cut across major and
+          independent Oil & Gas, Exploration and Production (E&P), Renewable
+          Energy companies, and financial institutions funding energy projects.
+          <br />
+          <br />
+          Petrophysics, Geoscience, Engineering with sound sense of Climate
+          Intelligence, and Staffing and Recruitment are main services we
+          provide. Integration, listening and making business - focused
+          interpretation of sub - surface as well as surface Geoscience and
+          Engineering data are our core competences; with the view to presenting
+          and enriching our esteemed clients with sound intergrated solutions.
+        </p>
+
+        <section className='about-col-main' id='about-coll-main'>
+          <a
+            href='http://purringen.netlify.app/'
+            target='_blank'
+            rel='noreferrer'
+            className='hero-btn red-btn-main'
+            id='hero-btn red-btn-main'
+          >
+            VISIT WEBSITE
+          </a>
+        </section>
+      </section>
+      <br />
+      <br />
+      <hr />
+
+      <section className='testiomonial'>
         <h1 style={{ color: 'red', fontSize: '1.25rem' }}>
           Purring Merchandise
         </h1>
