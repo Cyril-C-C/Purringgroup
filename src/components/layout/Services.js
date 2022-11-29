@@ -94,7 +94,7 @@ const Services = () => {
           provide. Integration, listening and making business - focused
           interpretation of sub - surface as well as surface Geoscience and
           Engineering data are our core competences; with the view to presenting
-          and enriching our esteemed clients with sound intergrated solutions.
+          and enriching our esteemed clients with sound integrated solutions.
         </p>
 
         <section className='about-col-main' id='about-coll-main'>
@@ -199,6 +199,16 @@ const Services = () => {
           education, housing, poverty eradication, etc. is the goal. This is
           because we really care...
         </p>
+
+        <section className='about-col-main' id='about-coll-main'>
+          <Link
+            to='#'
+            className='hero-btn red-btn-main'
+            id='hero-btn red-btn-main'
+          >
+            VISIT OTHERS
+          </Link>
+        </section>
       </section>
       <br />
       <br />
