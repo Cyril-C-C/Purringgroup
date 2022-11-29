@@ -1,4 +1,5 @@
 import React, { Fragment } from 'react';
+import { Link } from 'react-router-dom';
 
 const Services = () => {
   return (
@@ -202,7 +203,7 @@ const Services = () => {
 
         <section className='about-col-main' id='about-coll-main'>
           <Link
-            to='#'
+            to='/#'
             className='hero-btn red-btn-main'
             id='hero-btn red-btn-main'
           >
