@@ -1,32 +1,32 @@
 export const MenuItems = [
     {
       title: 'Board of Directors',
-      path: '/ui-ux',
+      path: '/#',
       cName: 'dropdown-link'
     },
     {
       title: 'Senior Leadership',
-      path: '/design',
+      path: '/#',
       cName: 'dropdown-link'
     },
     {
       title: 'Junior Leadership',
-      path: '/front-end',
+      path: '/#',
       cName: 'dropdown-link'
     },
     {
       title: 'Key Partnership',
-      path: '/back-end',
+      path: '/#',
       cName: 'dropdown-link'
     },
     {
       title: 'Governmentals',
-      path: '/ci-cd',
+      path: '/#',
       cName: 'dropdown-link'
     },
     {
       title: 'Key Contractors',
-      path: '/testing',
+      path: '/#',
       cName: 'dropdown-link'
     }
   ];
