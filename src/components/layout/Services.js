@@ -180,16 +180,16 @@ const Services = () => {
         </h1>
         <p>
           Purring Foundation is a Special Purpose Entity (SPE) of Purring Group
-          which helps such Parent Company to facilitate its community reach -
-          outs through Purring Corporate Social Responsibility Initiative
-          (PCSRI).
+          which helps such Parent Company to facilitate its community outreach
+          (both explicit and implicit social contracts) through Purring
+          Corporate Social Responsibility Initiative (PCSRI).
           <br />
           <br />
           Playing a positive role in our communities and consideration of
-          enivronmental and social impact of our business decisions geared up
-          such substantive initiative. Our approach is centered on
-          environmental, philanthropic, ethical and economic resposibility to
-          making ours best places beyond transacting with customers through good
+          environmental and social impact of our business decisions geared up
+          such substantive initiative. Our approach is centered on social,
+          environmental, philanthropic, ethical and economic responsibility to
+          making Ours best places beyond transacting with customers through good
           sense of corporate citizenship towards making possible higher
           standards of living and quality of life for our communities; and also,
           towards creating those frontiers for 'Corporate Social Responsibility
